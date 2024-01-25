@@ -2,37 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curtis&#39; Home Page</title>
-    <link>https://yanke-bioinfor.github.io/l/</link>
+    <link>github.biocat.top/</link>
     <description>Recent content on Curtis&#39; Home Page</description>
     <image>
       <title>Curtis&#39; Home Page</title>
-      <url>https://yanke-bioinfor.github.io/l/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://yanke-bioinfor.github.io/l/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>github.biocat.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>github.biocat.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://yanke-bioinfor.github.io/l/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="github.biocat.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://yanke-bioinfor.github.io/l/page/</link>
+      <link>github.biocat.top/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/l/page/</guid>
+      <guid>github.biocat.top/page/</guid>
       <description>Desc Text.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://yanke-bioinfor.github.io/l/curtis-home-page-aa758a835b234e7b942f43f0334a155d/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanke-bioinfor.github.io/l/curtis-home-page-aa758a835b234e7b942f43f0334a155d/</guid>
-      <description>Curtis‘ Home Page Work As A Bioinformatics Engineer +86 13161371335
-leeray00151@gmail.com
-🏠Beijing
-Values Everything
-Hello, I’m Curtis I&amp;rsquo;m a Bioinformatics Engineer at a Genome Testing company. I graduated in the school of Agriculture at Ludong University. I earned my bachelor and master under the guidance of Prof. Xiaotong Wang.
-你好，我叫李言柯
-目前我正在基因检测公司做生物信息工程师。在王晓通教授的指导下，我在鲁东大学农学院获得了本科和硕士学位。
-Food Notes</description>
     </item>
   </channel>
 </rss>
